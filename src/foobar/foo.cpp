@@ -64,6 +64,7 @@ void initOne(key &result) {
 //  result[31] = 1;
 }
 
+// https://monero.stackexchange.com/questions/2575/can-i-manually-check-consistency-of-pedersen-commitments-in-ringct
 int main(int argc, char *argv[]) {
 //  key k0{};
 //  key k1{};
